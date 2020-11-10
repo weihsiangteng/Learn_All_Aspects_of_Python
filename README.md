@@ -34,4 +34,5 @@
 *	[Black Hat Python: Python Programming for Hackers and Pentesters 1st Edition](https://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900/ref=sr_1_2?dchild=1&keywords=violent+python&qid=1605000608&s=books&sr=1-2)
 *	[Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers 1st Edition](https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579/ref=pd_sbs_14_5/130-5696266-8308719?_encoding=UTF8&pd_rd_i=1597499579&pd_rd_r=a403339f-7475-45c3-916d-8da41f8dbee0&pd_rd_w=vqoYV&pd_rd_wg=sVlIq&pf_rd_p=52ff3488-8ecd-4341-9663-52e4fb00f500&pf_rd_r=1N0RKMSSKF9PBJ4XQDPQ&psc=1&refRID=1N0RKMSSKF9PBJ4XQDPQ)
 *	[Gray Hat Python: Python Programming for Hackers and Reverse Engineers 1st Edition](https://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921/ref=sr_1_1?dchild=1&keywords=Gray+Hat+Python&qid=1605000711&s=books&sr=1-1)
+* [Hacking Secret Ciphers with Python](https://www.amazon.com/Hacking-Secret-Ciphers-Python-Sweigart-ebook/dp/B00WOY87ZU)
 
