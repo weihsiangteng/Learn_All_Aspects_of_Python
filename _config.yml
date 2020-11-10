@@ -1,8 +1,8 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: Learn_All_Aspects_of_Python
+description: "Learning Python Notes"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
+  name: "Wei-Hsiang Teng"
+  email: "f96222069@gmail.com"
   url: "https://ashishchaudhary.in/hacker-blog"
 
 baseurl: /
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
+owner : "Wei-Hsiang Teng"
 year : "2020"
