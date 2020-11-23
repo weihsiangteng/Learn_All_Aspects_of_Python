@@ -1,6 +1,6 @@
 # [我的Python學習筆記](https://weihsiangteng.github.io/Learn_All_Aspects_of_Python/)
 
-*主要專注於語言基礎、爬蟲、資料處理與資安方面的應用*
+*主要專注於語言基礎、爬蟲、資料處理、金融與資安方面的應用*
 
 ## 參考書目
 
@@ -36,3 +36,7 @@
 *	[Gray Hat Python: Python Programming for Hackers and Reverse Engineers 1st Edition](https://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921/ref=sr_1_1?dchild=1&keywords=Gray+Hat+Python&qid=1605000711&s=books&sr=1-1)
 * [Hacking Secret Ciphers with Python](https://www.amazon.com/Hacking-Secret-Ciphers-Python-Sweigart-ebook/dp/B00WOY87ZU)
 
+### 金融
+
+* [Artificial Intelligence in Finance: A Python-Based Guide 1st Edition](https://www.amazon.com/Artificial-Intelligence-Finance-Python-Based-Guide/dp/1492055433)
+* [Python for Finance: Mastering Data-Driven Finance 2nd Edition](https://www.amazon.com/Python-Finance-Mastering-Data-Driven/dp/1492024333/ref=pd_lpo_14_img_1/130-5696266-8308719?_encoding=UTF8&pd_rd_i=1492024333&pd_rd_r=0b219d9d-6c6b-404f-a55e-f86dc199953f&pd_rd_w=P5kHY&pd_rd_wg=o8q8T&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=T4PCYN17PQAZJW3P7B4R&psc=1&refRID=T4PCYN17PQAZJW3P7B4R)
